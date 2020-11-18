@@ -1,0 +1,32 @@
+/* ***********MOBILE***************** */
+div {
+    border: 1px solid black;
+    width: 100%;
+}
+#a {
+    height: 75px;
+    line-height: 75px;
+    background-color: lightblue;
+}
+#b {
+    height: 150px;
+    line-height: 150px;
+    background-color: lightgreen;
+}
+#c, #d {
+    height: 125px;
+    line-height: 125px;
+    background-color: lightpink;
+}
+#e, #f, #g, #h {
+    width: 50%;
+    height: 250px;
+    line-height: 250px;
+    background-color: lightgoldenrodyellow;
+}
+#i {
+    height: 80px;
+    line-height: 80px;
+    background-color: lightsalmon;
+}
+
