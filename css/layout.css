@@ -1,0 +1,64 @@
+/* ***********DESKTOP***************** */
+@media(min-width: 768px) {
+
+    #a {
+        height: 100px;
+        line-height: 100px;
+        grid-column: 1 / 6;
+        background-color: blue;
+    }
+    #b {
+        height: 600px;
+        line-height: 600px;
+        grid-column: 1 / 2;
+        background-color: green;
+    }
+    #c {
+        height: 200px;
+        line-height: 200px;
+        grid-column: 2 / 4;
+        background-color: red;
+    }
+    #d {
+        height: 200px;
+        line-height: 200px;
+        grid-column: 4 / 6;  
+        background-color: red;
+    }
+    #e {
+        height: 250px;
+        line-height: 250px;
+        width: 100%;
+        grid-column-start: 2;
+        background-color: yellow;
+    }
+    #f {
+        height: 250px;
+        line-height: 250px;
+        width: 100%;
+        grid-column: 3 / 4;
+        background-color: yellow;
+    }
+    #g {
+        height: 250px;
+        line-height: 250px;
+        width: 100%;
+        grid-column: 4 / 5;
+        background-color: yellow;
+    }
+    #h {
+        height: 250px;
+        line-height: 250px;
+        width: 100%;
+        grid-column: 5 / 6;
+        background-color: yellow;
+    }
+    #i {
+        height: 150px;
+        line-height: 150px;
+        width: 100%;
+        grid-column: 2 / 6;
+        background-color: purple;
+    }
+}
+
